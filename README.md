@@ -1,16 +1,13 @@
-# hello_world_app
+# Tap & Click Counter 🖱️📱
 
-A new Flutter project.
+Esta es una app hecha con Flutter que funciona como contador de clics o toques. Ideal para practicar:
 
-## Getting Started
+- Botones flotantes personalizados
+- Incremento y reinicio de contadores
+- Modo oscuro
+- Manejo de estado con setState
 
-This project is a starting point for a Flutter application.
+## Cómo usar
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Toca la pantalla para sumar.
+- Usa los botones para sumar, restar o reiniciar.
